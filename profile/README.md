@@ -1,5 +1,3 @@
-# KIT 河合研究室
-金沢工業大学 ロボティクス学科 河合研究室のGithubです.
 ![kawailab](https://user-images.githubusercontent.com/127711776/224868942-9bec9ad9-6019-4bff-9cb2-4e69c2c98f8f.gif)
 
 ## 使用上のルール  
