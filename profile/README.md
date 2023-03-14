@@ -1,7 +1,5 @@
-
-![kawailab](https://github.com/KawaiLaboratory/.github/blob/main/images/kawailab.gif?raw=true)
 <p align="center">
-  <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/kawailab.gif" />
+  <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/kawailab.gif" width="200%" />
 </p>
 ## 使用上のルール  
 1. プログラムの変数や関数にコメントを残すこと(初めて見る人でもわかるように)
