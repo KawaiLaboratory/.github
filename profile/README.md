@@ -1,5 +1,5 @@
 ![kawailab](https://user-images.githubusercontent.com/127711776/224868942-9bec9ad9-6019-4bff-9cb2-4e69c2c98f8f.gif)
-
+![kawailab](https://github.com/KawaiLaboratory/.github/blob/main/images/kawailab.gif?raw=true)
 ## 使用上のルール  
 1. プログラムの変数や関数にコメントを残すこと(初めて見る人でもわかるように)
 2. 基本的に公開設定はpublicでいいが, 守秘義務が発生するもの(例えば, 企業との共同研究などに使用しているものや個人情報が入ったものなど)はprivate, もしくは上げないようにする.
