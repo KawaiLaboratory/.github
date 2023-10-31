@@ -17,9 +17,17 @@
   <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo1.png" width="90%" />
 </p>  
 
-2. 「**Repository name**」をほかのリポジトリと被らないように設定する. Descriptionは自由. **Private**に設定する. **必ずREADMEは追加し説明を記述しておく**.  
+2. 「**Repository name**」をほかのリポジトリと被らないように設定する. Descriptionは自由. **Private**に設定する. **必ずREADMEは追加し説明を記述しておく**. 「**Create repository**」を選択して作成.   
 <p align="center">
 <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo2.png" width="60%" />
 </p>  
 
-3. 
+3. 作成したリポジトリを開き「**Collaborators and teasm**」を選択
+<p align="center">
+<img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo3.png" width="60%" />
+</p>  
+
+4. 「**Add teams**」を選択して, 「**Kawailab**」を追加する.
+<p align="center">
+<img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo4.png" width="50%" />
+</p>  
