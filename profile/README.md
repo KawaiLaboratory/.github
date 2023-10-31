@@ -22,7 +22,7 @@
 <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo2.png" width="60%" />
 </p>  
 
-3. 作成したリポジトリを開き「**Collaborators and teasm**」を選択
+3. 作成したリポジトリを開き「**Settings**」&rarr;「**Collaborators and teasm**」を選択
 <p align="center">
 <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo3.png" width="60%" />
 </p>  
