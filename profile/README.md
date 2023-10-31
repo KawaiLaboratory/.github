@@ -27,7 +27,7 @@
 <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo3.png" width="60%" />
 </p>  
 
-4. 「**Add teams**」を選択して, 「**Kawailab**」を追加する.
+4. 「**Add teams**」を選択して, 「**Kawailab**」を追加する. Roleはその時に応じて変更する. 基本Readでいい.  
 <p align="center">
 <img src="https://github.com/KawaiLaboratory/.github/blob/main/images/repo4.png" width="50%" />
 </p>  
